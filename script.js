@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
             image: "images/news1.",
             summary: "Resumen: El Gobierno de Guatemala ha lanzado el programa Retorno al Hogar para apoyar a los connacionales deportados de Estados Unidos debido al endurecimiento de las políticas migratorias. La vicepresidenta Karin Herrera explicó que este programa busca brindar apoyo en vivienda, empleo y formación para la reinserción de los migrantes en sus comunidades.",
             opinion: "El program Retorno al Hogar me parece una iniciativa de gran importancia, debido a las políticas migratorias de mayor exigencia que se ha estado viviendo desde que el presidente actual de los Estados unidos Donald Trump fue electo. Sin embargo, su efectividad va a depender meramente de la correcta implementación y seguimiento que se dé a la misma, así como del apoyo del pueblo hacia los compatriotas que egresan y renuncian al sueño americano por Obligación",
-            date: "2025-02-23"
+            date: "2025-06-23"
         },
         {
             title: "Noticia 2",
